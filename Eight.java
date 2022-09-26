@@ -1,6 +1,6 @@
 public class Eight {
     public static void main(String[] args) {
-        String str = "helloslkhellodjladfjhello";
+        String str = "asasahelloslkhellodjladfjhello";
         String findStr = "hello";
         int lastIndex = 0;
         int count = 0;
